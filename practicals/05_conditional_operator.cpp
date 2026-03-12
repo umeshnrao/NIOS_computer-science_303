@@ -9,8 +9,9 @@ int main(){
 	cout << "Enter the number:";
 	cin >> number;
 	
-	    (number % 2 == 0) ? 
-        cout << "The number is Even" : 
-        cout << "The number is Odd";
+	(number % 2 == 0) ? cout << "The number is Even" : cout << "The number is Odd";
+        
+
+
     
 }
